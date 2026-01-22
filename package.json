@@ -4,14 +4,14 @@
   "description": "Learning node, express and mongoDB",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon server.js",
+    "start": "node server.js",
     "start:prod": "cross-env NODE_ENV=production nodemon server.js",
     "debug": "ndb server.js",
     "dev": "nodemon server.js",
     "import:dev": "node dev-data/import-dev-data.js --import",
     "delete:dev": "node dev-data/import-dev-data.js --delete"
   },
-  "author": "Jonas Schmedtmann",
+  "author": "Muhammad Anas",
   "license": "ISC",
   "engines": {
     "node": ">=18.0.0"
