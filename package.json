@@ -11,7 +11,7 @@
     "import:dev": "node dev-data/import-dev-data.js --import",
     "delete:dev": "node dev-data/import-dev-data.js --delete"
   },
-  "author": "Jonas Schmedtmann",
+  "author": "Muhammad Anas",
   "license": "ISC",
   "engines": {
     "node": ">=18.0.0"
